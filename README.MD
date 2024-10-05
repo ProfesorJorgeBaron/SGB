@@ -1,0 +1,1 @@
+Repositorio con información de las actividades que se realizan en la asignatura de Sistemas Big Data
