@@ -1,7 +1,7 @@
 import redis
 
 #creamos las conexiones
-conexionRedis = redis.ConnectionPool(host='localhost', port=6370, db=0)
+conexionRedis = redis.ConnectionPool(host='localhost', port=6379, db=0)
 baseDatosRedis = redis.Redis(connection_pool=conexionRedis)
 
 #Obtener el valor de la clave "libro_1" pero en binario
