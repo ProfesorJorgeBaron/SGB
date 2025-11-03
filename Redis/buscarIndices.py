@@ -22,4 +22,7 @@ groupby = aggregations.AggregateRequest("*").group_by(
 resultado = baseDatosRedis.ft("indice:usuarios").aggregate(groupby).rows
 print(resultado)
 
+indices = baseDatosRedis.execute_command('FT._LIST')
+print("Índices creados:", indices)
+
 baseDatosRedis.close()

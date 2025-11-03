@@ -16,6 +16,8 @@ esquema = (
     NumericField("$.edad", as_name="edad")
 )
 
+baseDatosRedis.ft("indice:usuarios").dropindex(True)
+
 indexCreated = baseDatosRedis.ft("indice:usuarios").create_index(
     esquema,
     definition=IndexDefinition(
