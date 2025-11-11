@@ -1,0 +1,1258 @@
+{
+    "libros_con_autor_categoria": [
+        {
+            "id": 145,
+            "titulo": "Acuerdo eran.",
+            "autor": "Marcial Mendizábal",
+            "categoria": "Novela",
+            "anio_publicacion": 2015
+        },
+        {
+            "id": 16,
+            "titulo": "Algunas visto sol.",
+            "autor": "Fortunata Casares Berrocal",
+            "categoria": "Novela",
+            "anio_publicacion": 2022
+        },
+        {
+            "id": 107,
+            "titulo": "Ante pacientes.",
+            "autor": "Juan Pablo Somoza Higueras",
+            "categoria": "Novela",
+            "anio_publicacion": 1973
+        },
+        {
+            "id": 17,
+            "titulo": "Armas serie operación.",
+            "autor": "Santos Alcaraz Cerdán",
+            "categoria": "Terror",
+            "anio_publicacion": 1994
+        },
+        {
+            "id": 39,
+            "titulo": "Asimismo pesar.",
+            "autor": "Fortunata Casares Berrocal",
+            "categoria": "Infantil",
+            "anio_publicacion": 1978
+        },
+        {
+            "id": 112,
+            "titulo": "Aun formación hacía.",
+            "autor": "Nilda de Ramirez",
+            "categoria": "Terror",
+            "anio_publicacion": 1994
+        },
+        {
+            "id": 22,
+            "titulo": "Autoridades toma resultado allí.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Ciencia",
+            "anio_publicacion": 2001
+        },
+        {
+            "id": 3,
+            "titulo": "Cambio encuentran.",
+            "autor": "Omar Oliveras",
+            "categoria": "Novela",
+            "anio_publicacion": 2012
+        },
+        {
+            "id": 104,
+            "titulo": "Capital naturaleza gente.",
+            "autor": "Lázaro Cruz Fábregas",
+            "categoria": "Historia",
+            "anio_publicacion": 1997
+        },
+        {
+            "id": 102,
+            "titulo": "Ciencia lenguaje aún.",
+            "autor": "Mar del Benavente",
+            "categoria": "Ciencia",
+            "anio_publicacion": 2007
+        },
+        {
+            "id": 144,
+            "titulo": "Cierta señor a.",
+            "autor": "Zoraida del Montesinos",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1998
+        },
+        {
+            "id": 18,
+            "titulo": "Cierta unión historia.",
+            "autor": "Pepita Segovia Gabaldón",
+            "categoria": "Terror",
+            "anio_publicacion": 1997
+        },
+        {
+            "id": 5,
+            "titulo": "Cierto aquí manera.",
+            "autor": "Febe Bernad Rosa",
+            "categoria": "Infantil",
+            "anio_publicacion": 1986
+        },
+        {
+            "id": 31,
+            "titulo": "Clase día negro.",
+            "autor": "Pepita Segovia Gabaldón",
+            "categoria": "Historia",
+            "anio_publicacion": 1953
+        },
+        {
+            "id": 42,
+            "titulo": "Común ninguna.",
+            "autor": "Victoria Martín Ibañez",
+            "categoria": "Historia",
+            "anio_publicacion": 1955
+        },
+        {
+            "id": 148,
+            "titulo": "Costa comunidad salir.",
+            "autor": "Victoria Martín Ibañez",
+            "categoria": "Romántica",
+            "anio_publicacion": 1988
+        },
+        {
+            "id": 122,
+            "titulo": "Cual días.",
+            "autor": "Rosalina Blanco",
+            "categoria": "Novela",
+            "anio_publicacion": 1967
+        },
+        {
+            "id": 13,
+            "titulo": "Cuba.",
+            "autor": "Omar Oliveras",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1966
+        },
+        {
+            "id": 138,
+            "titulo": "Cuya armas j.",
+            "autor": "Emigdio Luján",
+            "categoria": "Novela",
+            "anio_publicacion": 1986
+        },
+        {
+            "id": 35,
+            "titulo": "Defensa servicios hablar.",
+            "autor": "África Valbuena Abril",
+            "categoria": "Novela",
+            "anio_publicacion": 2021
+        },
+        {
+            "id": 36,
+            "titulo": "Desde hemos tenía.",
+            "autor": "Melchor Carrera",
+            "categoria": "Historia",
+            "anio_publicacion": 2022
+        },
+        {
+            "id": 118,
+            "titulo": "Diario izquierda dijo.",
+            "autor": "Emigdio Luján",
+            "categoria": "Infantil",
+            "anio_publicacion": 2020
+        },
+        {
+            "id": 1,
+            "titulo": "Días.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Romántica",
+            "anio_publicacion": 2008
+        },
+        {
+            "id": 129,
+            "titulo": "Dolor debía.",
+            "autor": "Cristian del Torrecilla",
+            "categoria": "Novela",
+            "anio_publicacion": 1996
+        },
+        {
+            "id": 109,
+            "titulo": "Ejemplo humanos conocer libros.",
+            "autor": "Francisca Rojas-Mendez",
+            "categoria": "Romántica",
+            "anio_publicacion": 2023
+        },
+        {
+            "id": 14,
+            "titulo": "Encontrar todo.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Romántica",
+            "anio_publicacion": 2005
+        },
+        {
+            "id": 130,
+            "titulo": "Época hasta tienen.",
+            "autor": "Alfonso Che Prada Bustos",
+            "categoria": "Terror",
+            "anio_publicacion": 2017
+        },
+        {
+            "id": 12,
+            "titulo": "Esa siendo mundo.",
+            "autor": "Omar Oliveras",
+            "categoria": "Terror",
+            "anio_publicacion": 2013
+        },
+        {
+            "id": 149,
+            "titulo": "Escuela tenían.",
+            "autor": "Victoria Martín Ibañez",
+            "categoria": "Romántica",
+            "anio_publicacion": 2005
+        },
+        {
+            "id": 49,
+            "titulo": "Eso camino dio hechos.",
+            "autor": "José Mari Rodrigo Ramos",
+            "categoria": "Terror",
+            "anio_publicacion": 2001
+        },
+        {
+            "id": 30,
+            "titulo": "Están sea estaban.",
+            "autor": "Imelda Plana Pintor",
+            "categoria": "Infantil",
+            "anio_publicacion": 1977
+        },
+        {
+            "id": 11,
+            "titulo": "Evitar ideas cosas.",
+            "autor": "Fortunata Casares Berrocal",
+            "categoria": "Infantil",
+            "anio_publicacion": 2017
+        },
+        {
+            "id": 32,
+            "titulo": "Exterior españa mitad habían.",
+            "autor": "Imelda Plana Pintor",
+            "categoria": "Terror",
+            "anio_publicacion": 1954
+        },
+        {
+            "id": 124,
+            "titulo": "Exterior naturaleza.",
+            "autor": "Omar Oliveras",
+            "categoria": "Romántica",
+            "anio_publicacion": 2018
+        },
+        {
+            "id": 6,
+            "titulo": "Fin propuesta principio.",
+            "autor": "Fausto Martínez-Acuña",
+            "categoria": "Ciencia",
+            "anio_publicacion": 2021
+        },
+        {
+            "id": 19,
+            "titulo": "Futuro estamos.",
+            "autor": "Melchor Carrera",
+            "categoria": "Romántica",
+            "anio_publicacion": 1963
+        },
+        {
+            "id": 150,
+            "titulo": "Gente edad.",
+            "autor": "José Mari Rodrigo Ramos",
+            "categoria": "Terror",
+            "anio_publicacion": 1978
+        },
+        {
+            "id": 140,
+            "titulo": "Hace e.",
+            "autor": "Fabio de Castañeda",
+            "categoria": "Terror",
+            "anio_publicacion": 1975
+        },
+        {
+            "id": 142,
+            "titulo": "Hasta podría primeras.",
+            "autor": "Fausto Martínez-Acuña",
+            "categoria": "Ciencia",
+            "anio_publicacion": 2024
+        },
+        {
+            "id": 120,
+            "titulo": "Horas artículo.",
+            "autor": "Natividad Ríos Cornejo",
+            "categoria": "Terror",
+            "anio_publicacion": 2003
+        },
+        {
+            "id": 116,
+            "titulo": "Horas casos trabajadores.",
+            "autor": "Rolando Simó Castilla",
+            "categoria": "Terror",
+            "anio_publicacion": 1955
+        },
+        {
+            "id": 45,
+            "titulo": "Hoy.",
+            "autor": "Imelda Plana Pintor",
+            "categoria": "Historia",
+            "anio_publicacion": 1989
+        },
+        {
+            "id": 137,
+            "titulo": "Humanos distintos.",
+            "autor": "Maristela Fuentes Benavent",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1997
+        },
+        {
+            "id": 113,
+            "titulo": "Iglesia cinco es.",
+            "autor": "Ricardo Linares Gallart",
+            "categoria": "Historia",
+            "anio_publicacion": 1993
+        },
+        {
+            "id": 46,
+            "titulo": "Imágenes grupos real.",
+            "autor": "África Valbuena Abril",
+            "categoria": "Infantil",
+            "anio_publicacion": 1968
+        },
+        {
+            "id": 40,
+            "titulo": "Imposible hay.",
+            "autor": "Fausto Martínez-Acuña",
+            "categoria": "Terror",
+            "anio_publicacion": 1994
+        },
+        {
+            "id": 20,
+            "titulo": "Industria pasar.",
+            "autor": "Melchor Carrera",
+            "categoria": "Novela",
+            "anio_publicacion": 1998
+        },
+        {
+            "id": 125,
+            "titulo": "Informe conocer dentro.",
+            "autor": "José Mari Rodrigo Ramos",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1950
+        },
+        {
+            "id": 131,
+            "titulo": "Juan través serie.",
+            "autor": "Severiano Santos Casal Manuel",
+            "categoria": "Terror",
+            "anio_publicacion": 1967
+        },
+        {
+            "id": 28,
+            "titulo": "Las congreso te.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Historia",
+            "anio_publicacion": 1990
+        },
+        {
+            "id": 15,
+            "titulo": "Líder seguridad año.",
+            "autor": "Dionisio Jaume Acevedo",
+            "categoria": "Infantil",
+            "anio_publicacion": 1983
+        },
+        {
+            "id": 25,
+            "titulo": "Martín.",
+            "autor": "José Mari Rodrigo Ramos",
+            "categoria": "Historia",
+            "anio_publicacion": 2022
+        },
+        {
+            "id": 132,
+            "titulo": "Mediante último grado.",
+            "autor": "Omar Oliveras",
+            "categoria": "Historia",
+            "anio_publicacion": 1980
+        },
+        {
+            "id": 141,
+            "titulo": "Médico r dan.",
+            "autor": "Imelda Plana Pintor",
+            "categoria": "Historia",
+            "anio_publicacion": 1991
+        },
+        {
+            "id": 26,
+            "titulo": "Medida año.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Romántica",
+            "anio_publicacion": 1987
+        },
+        {
+            "id": 37,
+            "titulo": "Meses además cantidad.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Novela",
+            "anio_publicacion": 1972
+        },
+        {
+            "id": 101,
+            "titulo": "Metros aparece.",
+            "autor": "Mar del Benavente",
+            "categoria": "Romántica",
+            "anio_publicacion": 1958
+        },
+        {
+            "id": 123,
+            "titulo": "Mientras.",
+            "autor": "Nilda de Ramirez",
+            "categoria": "Historia",
+            "anio_publicacion": 1971
+        },
+        {
+            "id": 121,
+            "titulo": "Ni especialmente sí.",
+            "autor": "Rosalina Blanco",
+            "categoria": "Romántica",
+            "anio_publicacion": 2002
+        },
+        {
+            "id": 127,
+            "titulo": "Noche señaló punto.",
+            "autor": "Ricardo Linares Gallart",
+            "categoria": "Novela",
+            "anio_publicacion": 1986
+        },
+        {
+            "id": 47,
+            "titulo": "Noviembre conseguir iba cuestión.",
+            "autor": "Imelda Plana Pintor",
+            "categoria": "Infantil",
+            "anio_publicacion": 1978
+        },
+        {
+            "id": 139,
+            "titulo": "Nuestros habría razones.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Novela",
+            "anio_publicacion": 2001
+        },
+        {
+            "id": 143,
+            "titulo": "Nuestros información.",
+            "autor": "Fausto Martínez-Acuña",
+            "categoria": "Infantil",
+            "anio_publicacion": 1991
+        },
+        {
+            "id": 103,
+            "titulo": "Objetivo.",
+            "autor": "Emigdio Luján",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1969
+        },
+        {
+            "id": 128,
+            "titulo": "Oposición cara estar.",
+            "autor": "África Valbuena Abril",
+            "categoria": "Infantil",
+            "anio_publicacion": 1989
+        },
+        {
+            "id": 114,
+            "titulo": "Políticas.",
+            "autor": "Rolando Simó Castilla",
+            "categoria": "Romántica",
+            "anio_publicacion": 2003
+        },
+        {
+            "id": 34,
+            "titulo": "Principales fecha.",
+            "autor": "Fortunata Casares Berrocal",
+            "categoria": "Infantil",
+            "anio_publicacion": 1996
+        },
+        {
+            "id": 38,
+            "titulo": "Principales la recursos puso.",
+            "autor": "Jacobo de Manrique",
+            "categoria": "Romántica",
+            "anio_publicacion": 1962
+        },
+        {
+            "id": 7,
+            "titulo": "Programa pasa.",
+            "autor": "Fabio de Castañeda",
+            "categoria": "Novela",
+            "anio_publicacion": 2017
+        },
+        {
+            "id": 110,
+            "titulo": "Pudo perdido lado.",
+            "autor": "Ricardo Linares Gallart",
+            "categoria": "Terror",
+            "anio_publicacion": 1982
+        },
+        {
+            "id": 108,
+            "titulo": "Puso futuro políticas.",
+            "autor": "Alfonso Che Prada Bustos",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1971
+        },
+        {
+            "id": 41,
+            "titulo": "Quiero cámara.",
+            "autor": "Fortunata Casares Berrocal",
+            "categoria": "Historia",
+            "anio_publicacion": 2024
+        },
+        {
+            "id": 2,
+            "titulo": "Régimen sobre sola.",
+            "autor": "Fabio de Castañeda",
+            "categoria": "Romántica",
+            "anio_publicacion": 1973
+        },
+        {
+            "id": 115,
+            "titulo": "Resultados esas.",
+            "autor": "Ovidio Abascal Gomila",
+            "categoria": "Novela",
+            "anio_publicacion": 1998
+        },
+        {
+            "id": 119,
+            "titulo": "Riesgo máximo.",
+            "autor": "Fabio de Castañeda",
+            "categoria": "Novela",
+            "anio_publicacion": 1995
+        },
+        {
+            "id": 44,
+            "titulo": "Rodríguez semana.",
+            "autor": "Jovita Yéssica Merino Riba",
+            "categoria": "Terror",
+            "anio_publicacion": 2013
+        },
+        {
+            "id": 146,
+            "titulo": "Secretario poder.",
+            "autor": "Santos Alcaraz Cerdán",
+            "categoria": "Infantil",
+            "anio_publicacion": 2019
+        },
+        {
+            "id": 106,
+            "titulo": "Segunda decir.",
+            "autor": "Ovidio Abascal Gomila",
+            "categoria": "Infantil",
+            "anio_publicacion": 2010
+        },
+        {
+            "id": 50,
+            "titulo": "Seguridad uno.",
+            "autor": "José Mari Rodrigo Ramos",
+            "categoria": "Historia",
+            "anio_publicacion": 1966
+        },
+        {
+            "id": 21,
+            "titulo": "Señora administración salir.",
+            "autor": "Dionisio Jaume Acevedo",
+            "categoria": "Infantil",
+            "anio_publicacion": 2012
+        },
+        {
+            "id": 27,
+            "titulo": "Sería crecimiento.",
+            "autor": "Fausto Martínez-Acuña",
+            "categoria": "Terror",
+            "anio_publicacion": 1986
+        },
+        {
+            "id": 33,
+            "titulo": "Sería época ojos.",
+            "autor": "Pepita Segovia Gabaldón",
+            "categoria": "Novela",
+            "anio_publicacion": 1983
+        },
+        {
+            "id": 23,
+            "titulo": "Servicio escuela serán.",
+            "autor": "Emigdio Luján",
+            "categoria": "Romántica",
+            "anio_publicacion": 1952
+        },
+        {
+            "id": 24,
+            "titulo": "Sido minutos allí.",
+            "autor": "Rosalina Blanco",
+            "categoria": "Historia",
+            "anio_publicacion": 1982
+        },
+        {
+            "id": 29,
+            "titulo": "Siguiente tal que.",
+            "autor": "Ovidio Abascal Gomila",
+            "categoria": "Ciencia",
+            "anio_publicacion": 2003
+        },
+        {
+            "id": 135,
+            "titulo": "Soy.",
+            "autor": "Nilda de Ramirez",
+            "categoria": "Terror",
+            "anio_publicacion": 1984
+        },
+        {
+            "id": 147,
+            "titulo": "Tanto cambio pues.",
+            "autor": "Marcial Mendizábal",
+            "categoria": "Terror",
+            "anio_publicacion": 2007
+        },
+        {
+            "id": 43,
+            "titulo": "Tanto primero figura.",
+            "autor": "Omar Oliveras",
+            "categoria": "Infantil",
+            "anio_publicacion": 1991
+        },
+        {
+            "id": 133,
+            "titulo": "Tengo cosas modelo.",
+            "autor": "Emigdio Sanmartín Taboada",
+            "categoria": "Ciencia",
+            "anio_publicacion": 2023
+        },
+        {
+            "id": 8,
+            "titulo": "Tengo siglo.",
+            "autor": "Pepita Segovia Gabaldón",
+            "categoria": "Novela",
+            "anio_publicacion": 1969
+        },
+        {
+            "id": 117,
+            "titulo": "Total suficiente.",
+            "autor": "Alfonso Che Prada Bustos",
+            "categoria": "Terror",
+            "anio_publicacion": 1992
+        },
+        {
+            "id": 48,
+            "titulo": "Través sobre.",
+            "autor": "Ovidio Abascal Gomila",
+            "categoria": "Romántica",
+            "anio_publicacion": 2021
+        },
+        {
+            "id": 9,
+            "titulo": "Tres permite.",
+            "autor": "Santos Alcaraz Cerdán",
+            "categoria": "Infantil",
+            "anio_publicacion": 1953
+        },
+        {
+            "id": 136,
+            "titulo": "Un corazón.",
+            "autor": "Alfonso Che Prada Bustos",
+            "categoria": "Terror",
+            "anio_publicacion": 1961
+        },
+        {
+            "id": 105,
+            "titulo": "Unión fuego.",
+            "autor": "África Valbuena Abril",
+            "categoria": "Infantil",
+            "anio_publicacion": 1969
+        },
+        {
+            "id": 111,
+            "titulo": "Va él supuesto.",
+            "autor": "Rolando Simó Castilla",
+            "categoria": "Novela",
+            "anio_publicacion": 1984
+        },
+        {
+            "id": 134,
+            "titulo": "Valor particular.",
+            "autor": "Santos Alcaraz Cerdán",
+            "categoria": "Terror",
+            "anio_publicacion": 1950
+        },
+        {
+            "id": 10,
+            "titulo": "Vivir sangre especie.",
+            "autor": "Omar Oliveras",
+            "categoria": "Historia",
+            "anio_publicacion": 1962
+        },
+        {
+            "id": 4,
+            "titulo": "Voy cuya luego.",
+            "autor": "Ricardo Linares Gallart",
+            "categoria": "Ciencia",
+            "anio_publicacion": 1950
+        },
+        {
+            "id": 126,
+            "titulo": "Voz parís hora.",
+            "autor": "Omar Oliveras",
+            "categoria": "Novela",
+            "anio_publicacion": 1959
+        }
+    ],
+    "libros_por_autor": [
+        {
+            "autor": "Jovita Yéssica Merino Riba",
+            "cantidad_libros": 8
+        },
+        {
+            "autor": "Omar Oliveras",
+            "cantidad_libros": 8
+        },
+        {
+            "autor": "Fortunata Casares Berrocal",
+            "cantidad_libros": 5
+        },
+        {
+            "autor": "Fausto Martínez-Acuña",
+            "cantidad_libros": 5
+        },
+        {
+            "autor": "Imelda Plana Pintor",
+            "cantidad_libros": 5
+        },
+        {
+            "autor": "José Mari Rodrigo Ramos",
+            "cantidad_libros": 5
+        },
+        {
+            "autor": "Emigdio Luján",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Pepita Segovia Gabaldón",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Santos Alcaraz Cerdán",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Alfonso Che Prada Bustos",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Fabio de Castañeda",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Ricardo Linares Gallart",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "África Valbuena Abril",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Ovidio Abascal Gomila",
+            "cantidad_libros": 4
+        },
+        {
+            "autor": "Victoria Martín Ibañez",
+            "cantidad_libros": 3
+        },
+        {
+            "autor": "Rolando Simó Castilla",
+            "cantidad_libros": 3
+        },
+        {
+            "autor": "Rosalina Blanco",
+            "cantidad_libros": 3
+        },
+        {
+            "autor": "Nilda de Ramirez",
+            "cantidad_libros": 3
+        },
+        {
+            "autor": "Melchor Carrera",
+            "cantidad_libros": 3
+        },
+        {
+            "autor": "Marcial Mendizábal",
+            "cantidad_libros": 2
+        },
+        {
+            "autor": "Dionisio Jaume Acevedo",
+            "cantidad_libros": 2
+        },
+        {
+            "autor": "Mar del Benavente",
+            "cantidad_libros": 2
+        },
+        {
+            "autor": "Maristela Fuentes Benavent",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Emigdio Sanmartín Taboada",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Juan Pablo Somoza Higueras",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Francisca Rojas-Mendez",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Cristian del Torrecilla",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Jacobo de Manrique",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Natividad Ríos Cornejo",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Severiano Santos Casal Manuel",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Lázaro Cruz Fábregas",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Febe Bernad Rosa",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Zoraida del Montesinos",
+            "cantidad_libros": 1
+        },
+        {
+            "autor": "Virginia Lledó Mercader",
+            "cantidad_libros": 0
+        },
+        {
+            "autor": "Inocencio Lladó Tejero",
+            "cantidad_libros": 0
+        },
+        {
+            "autor": "María Ángeles Huguet Contreras",
+            "cantidad_libros": 0
+        },
+        {
+            "autor": "Abel García Sala",
+            "cantidad_libros": 0
+        },
+        {
+            "autor": "Vanesa Hurtado Olmo",
+            "cantidad_libros": 0
+        },
+        {
+            "autor": "Leandro Costa Cabello",
+            "cantidad_libros": 0
+        },
+        {
+            "autor": "Godofredo Briones Bonilla",
+            "cantidad_libros": 0
+        }
+    ],
+    "libros_recientes": [
+        {
+            "titulo": "Eso camino dio hechos.",
+            "anio_publicacion": 2001,
+            "categoria": "Terror"
+        },
+        {
+            "titulo": "Autoridades toma resultado allí.",
+            "anio_publicacion": 2001,
+            "categoria": "Ciencia"
+        },
+        {
+            "titulo": "Nuestros habría razones.",
+            "anio_publicacion": 2001,
+            "categoria": "Novela"
+        },
+        {
+            "titulo": "Ni especialmente sí.",
+            "anio_publicacion": 2002,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Políticas.",
+            "anio_publicacion": 2003,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Siguiente tal que.",
+            "anio_publicacion": 2003,
+            "categoria": "Ciencia"
+        },
+        {
+            "titulo": "Horas artículo.",
+            "anio_publicacion": 2003,
+            "categoria": "Terror"
+        },
+        {
+            "titulo": "Encontrar todo.",
+            "anio_publicacion": 2005,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Escuela tenían.",
+            "anio_publicacion": 2005,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Ciencia lenguaje aún.",
+            "anio_publicacion": 2007,
+            "categoria": "Ciencia"
+        },
+        {
+            "titulo": "Tanto cambio pues.",
+            "anio_publicacion": 2007,
+            "categoria": "Terror"
+        },
+        {
+            "titulo": "Días.",
+            "anio_publicacion": 2008,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Segunda decir.",
+            "anio_publicacion": 2010,
+            "categoria": "Infantil"
+        },
+        {
+            "titulo": "Cambio encuentran.",
+            "anio_publicacion": 2012,
+            "categoria": "Novela"
+        },
+        {
+            "titulo": "Señora administración salir.",
+            "anio_publicacion": 2012,
+            "categoria": "Infantil"
+        },
+        {
+            "titulo": "Esa siendo mundo.",
+            "anio_publicacion": 2013,
+            "categoria": "Terror"
+        },
+        {
+            "titulo": "Rodríguez semana.",
+            "anio_publicacion": 2013,
+            "categoria": "Terror"
+        },
+        {
+            "titulo": "Acuerdo eran.",
+            "anio_publicacion": 2015,
+            "categoria": "Novela"
+        },
+        {
+            "titulo": "Época hasta tienen.",
+            "anio_publicacion": 2017,
+            "categoria": "Terror"
+        },
+        {
+            "titulo": "Programa pasa.",
+            "anio_publicacion": 2017,
+            "categoria": "Novela"
+        },
+        {
+            "titulo": "Evitar ideas cosas.",
+            "anio_publicacion": 2017,
+            "categoria": "Infantil"
+        },
+        {
+            "titulo": "Exterior naturaleza.",
+            "anio_publicacion": 2018,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Secretario poder.",
+            "anio_publicacion": 2019,
+            "categoria": "Infantil"
+        },
+        {
+            "titulo": "Diario izquierda dijo.",
+            "anio_publicacion": 2020,
+            "categoria": "Infantil"
+        },
+        {
+            "titulo": "Fin propuesta principio.",
+            "anio_publicacion": 2021,
+            "categoria": "Ciencia"
+        },
+        {
+            "titulo": "Defensa servicios hablar.",
+            "anio_publicacion": 2021,
+            "categoria": "Novela"
+        },
+        {
+            "titulo": "Través sobre.",
+            "anio_publicacion": 2021,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Martín.",
+            "anio_publicacion": 2022,
+            "categoria": "Historia"
+        },
+        {
+            "titulo": "Desde hemos tenía.",
+            "anio_publicacion": 2022,
+            "categoria": "Historia"
+        },
+        {
+            "titulo": "Algunas visto sol.",
+            "anio_publicacion": 2022,
+            "categoria": "Novela"
+        },
+        {
+            "titulo": "Ejemplo humanos conocer libros.",
+            "anio_publicacion": 2023,
+            "categoria": "Romántica"
+        },
+        {
+            "titulo": "Tengo cosas modelo.",
+            "anio_publicacion": 2023,
+            "categoria": "Ciencia"
+        },
+        {
+            "titulo": "Hasta podría primeras.",
+            "anio_publicacion": 2024,
+            "categoria": "Ciencia"
+        },
+        {
+            "titulo": "Quiero cámara.",
+            "anio_publicacion": 2024,
+            "categoria": "Historia"
+        }
+    ],
+    "autores_mas_prestados": [
+        {
+            "autor": "Pepita Segovia Gabaldón",
+            "total_prestamos": 9
+        },
+        {
+            "autor": "Jovita Yéssica Merino Riba",
+            "total_prestamos": 8
+        },
+        {
+            "autor": "José Mari Rodrigo Ramos",
+            "total_prestamos": 6
+        },
+        {
+            "autor": "Omar Oliveras",
+            "total_prestamos": 6
+        },
+        {
+            "autor": "Melchor Carrera",
+            "total_prestamos": 5
+        }
+    ],
+    "libros_nunca_prestados": [
+        {
+            "titulo": "Clase día negro.",
+            "autor": "Pepita Segovia Gabaldón"
+        },
+        {
+            "titulo": "Pudo perdido lado.",
+            "autor": "Ricardo Linares Gallart"
+        },
+        {
+            "titulo": "Iglesia cinco es.",
+            "autor": "Ricardo Linares Gallart"
+        },
+        {
+            "titulo": "Noche señaló punto.",
+            "autor": "Ricardo Linares Gallart"
+        },
+        {
+            "titulo": "Sido minutos allí.",
+            "autor": "Rosalina Blanco"
+        },
+        {
+            "titulo": "Ni especialmente sí.",
+            "autor": "Rosalina Blanco"
+        },
+        {
+            "titulo": "Cual días.",
+            "autor": "Rosalina Blanco"
+        },
+        {
+            "titulo": "Hace e.",
+            "autor": "Fabio de Castañeda"
+        },
+        {
+            "titulo": "Señora administración salir.",
+            "autor": "Dionisio Jaume Acevedo"
+        },
+        {
+            "titulo": "Futuro estamos.",
+            "autor": "Melchor Carrera"
+        },
+        {
+            "titulo": "Hasta podría primeras.",
+            "autor": "Fausto Martínez-Acuña"
+        },
+        {
+            "titulo": "Exterior españa mitad habían.",
+            "autor": "Imelda Plana Pintor"
+        },
+        {
+            "titulo": "Hoy.",
+            "autor": "Imelda Plana Pintor"
+        },
+        {
+            "titulo": "Noviembre conseguir iba cuestión.",
+            "autor": "Imelda Plana Pintor"
+        },
+        {
+            "titulo": "Médico r dan.",
+            "autor": "Imelda Plana Pintor"
+        },
+        {
+            "titulo": "Meses además cantidad.",
+            "autor": "Jovita Yéssica Merino Riba"
+        },
+        {
+            "titulo": "Segunda decir.",
+            "autor": "Ovidio Abascal Gomila"
+        },
+        {
+            "titulo": "Algunas visto sol.",
+            "autor": "Fortunata Casares Berrocal"
+        },
+        {
+            "titulo": "Asimismo pesar.",
+            "autor": "Fortunata Casares Berrocal"
+        },
+        {
+            "titulo": "Unión fuego.",
+            "autor": "África Valbuena Abril"
+        },
+        {
+            "titulo": "Oposición cara estar.",
+            "autor": "África Valbuena Abril"
+        },
+        {
+            "titulo": "Valor particular.",
+            "autor": "Santos Alcaraz Cerdán"
+        },
+        {
+            "titulo": "Secretario poder.",
+            "autor": "Santos Alcaraz Cerdán"
+        },
+        {
+            "titulo": "Vivir sangre especie.",
+            "autor": "Omar Oliveras"
+        },
+        {
+            "titulo": "Cuba.",
+            "autor": "Omar Oliveras"
+        },
+        {
+            "titulo": "Exterior naturaleza.",
+            "autor": "Omar Oliveras"
+        },
+        {
+            "titulo": "Voz parís hora.",
+            "autor": "Omar Oliveras"
+        },
+        {
+            "titulo": "Objetivo.",
+            "autor": "Emigdio Luján"
+        },
+        {
+            "titulo": "Cuya armas j.",
+            "autor": "Emigdio Luján"
+        },
+        {
+            "titulo": "Aun formación hacía.",
+            "autor": "Nilda de Ramirez"
+        },
+        {
+            "titulo": "Mientras.",
+            "autor": "Nilda de Ramirez"
+        },
+        {
+            "titulo": "Soy.",
+            "autor": "Nilda de Ramirez"
+        },
+        {
+            "titulo": "Capital naturaleza gente.",
+            "autor": "Lázaro Cruz Fábregas"
+        },
+        {
+            "titulo": "Ejemplo humanos conocer libros.",
+            "autor": "Francisca Rojas-Mendez"
+        },
+        {
+            "titulo": "Época hasta tienen.",
+            "autor": "Alfonso Che Prada Bustos"
+        },
+        {
+            "titulo": "Un corazón.",
+            "autor": "Alfonso Che Prada Bustos"
+        },
+        {
+            "titulo": "Va él supuesto.",
+            "autor": "Rolando Simó Castilla"
+        },
+        {
+            "titulo": "Políticas.",
+            "autor": "Rolando Simó Castilla"
+        },
+        {
+            "titulo": "Horas casos trabajadores.",
+            "autor": "Rolando Simó Castilla"
+        },
+        {
+            "titulo": "Acuerdo eran.",
+            "autor": "Marcial Mendizábal"
+        },
+        {
+            "titulo": "Metros aparece.",
+            "autor": "Mar del Benavente"
+        },
+        {
+            "titulo": "Ciencia lenguaje aún.",
+            "autor": "Mar del Benavente"
+        },
+        {
+            "titulo": "Juan través serie.",
+            "autor": "Severiano Santos Casal Manuel"
+        },
+        {
+            "titulo": "Horas artículo.",
+            "autor": "Natividad Ríos Cornejo"
+        },
+        {
+            "titulo": "Humanos distintos.",
+            "autor": "Maristela Fuentes Benavent"
+        },
+        {
+            "titulo": "Dolor debía.",
+            "autor": "Cristian del Torrecilla"
+        },
+        {
+            "titulo": "Ante pacientes.",
+            "autor": "Juan Pablo Somoza Higueras"
+        }
+    ],
+    "prestamos_por_anio": [
+        {
+            "anio": 2025,
+            "total_prestamos": 80
+        }
+    ],
+    "promedio_libros_categoria": [
+        {
+            "promedio_libros_por_categoria": 

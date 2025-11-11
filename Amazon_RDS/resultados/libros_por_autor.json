@@ -1,0 +1,162 @@
+[
+    {
+        "autor": "Omar Oliveras",
+        "cantidad_libros": 8
+    },
+    {
+        "autor": "Jovita Yéssica Merino Riba",
+        "cantidad_libros": 8
+    },
+    {
+        "autor": "Fausto Martínez-Acuña",
+        "cantidad_libros": 5
+    },
+    {
+        "autor": "Imelda Plana Pintor",
+        "cantidad_libros": 5
+    },
+    {
+        "autor": "José Mari Rodrigo Ramos",
+        "cantidad_libros": 5
+    },
+    {
+        "autor": "Fortunata Casares Berrocal",
+        "cantidad_libros": 5
+    },
+    {
+        "autor": "Alfonso Che Prada Bustos",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Fabio de Castañeda",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Ricardo Linares Gallart",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "África Valbuena Abril",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Ovidio Abascal Gomila",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Emigdio Luján",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Pepita Segovia Gabaldón",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Santos Alcaraz Cerdán",
+        "cantidad_libros": 4
+    },
+    {
+        "autor": "Rolando Simó Castilla",
+        "cantidad_libros": 3
+    },
+    {
+        "autor": "Rosalina Blanco",
+        "cantidad_libros": 3
+    },
+    {
+        "autor": "Nilda de Ramirez",
+        "cantidad_libros": 3
+    },
+    {
+        "autor": "Melchor Carrera",
+        "cantidad_libros": 3
+    },
+    {
+        "autor": "Victoria Martín Ibañez",
+        "cantidad_libros": 3
+    },
+    {
+        "autor": "Dionisio Jaume Acevedo",
+        "cantidad_libros": 2
+    },
+    {
+        "autor": "Mar del Benavente",
+        "cantidad_libros": 2
+    },
+    {
+        "autor": "Marcial Mendizábal",
+        "cantidad_libros": 2
+    },
+    {
+        "autor": "Juan Pablo Somoza Higueras",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Francisca Rojas-Mendez",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Cristian del Torrecilla",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Jacobo de Manrique",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Natividad Ríos Cornejo",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Severiano Santos Casal Manuel",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Lázaro Cruz Fábregas",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Febe Bernad Rosa",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Zoraida del Montesinos",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Maristela Fuentes Benavent",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Emigdio Sanmartín Taboada",
+        "cantidad_libros": 1
+    },
+    {
+        "autor": "Inocencio Lladó Tejero",
+        "cantidad_libros": 0
+    },
+    {
+        "autor": "María Ángeles Huguet Contreras",
+        "cantidad_libros": 0
+    },
+    {
+        "autor": "Abel García Sala",
+        "cantidad_libros": 0
+    },
+    {
+        "autor": "Vanesa Hurtado Olmo",
+        "cantidad_libros": 0
+    },
+    {
+        "autor": "Leandro Costa Cabello",
+        "cantidad_libros": 0
+    },
+    {
+        "autor": "Godofredo Briones Bonilla",
+        "cantidad_libros": 0
+    },
+    {
+        "autor": "Virginia Lledó Mercader",
+        "cantidad_libros": 0
+    }
+]

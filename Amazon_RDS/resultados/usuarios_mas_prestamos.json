@@ -1,0 +1,52 @@
+[
+    {
+        "usuario": "Ligia Cuéllar Vallés",
+        "ciudad": "Huesca",
+        "total_prestamos": 10
+    },
+    {
+        "usuario": "María Luisa Barros-Anguita",
+        "ciudad": "Salamanca",
+        "total_prestamos": 8
+    },
+    {
+        "usuario": "Gabriel Mosquera Marí",
+        "ciudad": "Zaragoza",
+        "total_prestamos": 8
+    },
+    {
+        "usuario": "Estela Muñoz Pascual",
+        "ciudad": "Sevilla",
+        "total_prestamos": 8
+    },
+    {
+        "usuario": "Violeta Perales",
+        "ciudad": "Santa Cruz de Tenerife",
+        "total_prestamos": 6
+    },
+    {
+        "usuario": "Flor Guiomar Peláez Español",
+        "ciudad": "Melilla",
+        "total_prestamos": 6
+    },
+    {
+        "usuario": "Jesús Aznar Benavides",
+        "ciudad": "Ávila",
+        "total_prestamos": 6
+    },
+    {
+        "usuario": "Alex Zorrilla Cruz",
+        "ciudad": "Teruel",
+        "total_prestamos": 6
+    },
+    {
+        "usuario": "Vasco Barragán-Oliva",
+        "ciudad": "Palencia",
+        "total_prestamos": 4
+    },
+    {
+        "usuario": "Irma Alegria",
+        "ciudad": "Palencia",
+        "total_prestamos": 4
+    }
+]
