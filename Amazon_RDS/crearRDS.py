@@ -31,9 +31,6 @@ def create_rds_instance():
         print("Comprobando si la instancia RDS ya existe...")
         info = rds.describe_db_instances(DBInstanceIdentifier=DB_INSTANCE_ID)
         print(f"La instancia '{DB_INSTANCE_ID}' ya existe.")
-        rds.start_db_instance(
-                DBInstanceIdentifier=DB_INSTANCE_ID
-        )
     except ClientError as e:
         print("Creando instancia RDS...")
 
@@ -47,11 +44,10 @@ def create_rds_instance():
             PubliclyAccessible=True
         )
 
-
-    print("Usamos los waiters para esperar a que la instancia esté disponible")
-    waiter = rds.get_waiter('db_instance_available')
-    waiter.wait(DBInstanceIdentifier=DB_INSTANCE_ID)
-    print("La instancia RDS está disponible")
+        print("Usamos los waiters para esperar a que la instancia esté disponible")
+        waiter = rds.get_waiter('db_instance_available')
+        waiter.wait(DBInstanceIdentifier=DB_INSTANCE_ID)
+        print("La instancia RDS está disponible")
 
     info = rds.describe_db_instances(DBInstanceIdentifier=DB_INSTANCE_ID)
     endpoint = info['DBInstances'][0]['Endpoint']['Address']
