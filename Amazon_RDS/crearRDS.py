@@ -31,6 +31,9 @@ def create_rds_instance():
         print("Comprobando si la instancia RDS ya existe...")
         info = rds.describe_db_instances(DBInstanceIdentifier=DB_INSTANCE_ID)
         print(f"La instancia '{DB_INSTANCE_ID}' ya existe.")
+        rds.start_db_instance(
+                DBInstanceIdentifier=DB_INSTANCE_ID
+        )
     except ClientError as e:
         print("Creando instancia RDS...")
 
